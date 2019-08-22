@@ -1,0 +1,1 @@
+default_app_config = 'cashback_app.apps.CashbackAppConfig'
